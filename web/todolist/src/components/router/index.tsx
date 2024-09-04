@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import Todo from "../../pages/todo";
-import Home from "../../pages/todo/home";
-import Sobre from "../../pages/todo/sobre";
+import Home from "../../pages/home";
+import Sobre from "../../pages/sobre";
 
 enum RouterPages  {
     'home' = 'home',
